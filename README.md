@@ -1,4 +1,8 @@
-Initail setup, required apns.p8 certificate (APNs auth key) obtained from developer apple portal
+Using library from https://github.com/node-apn/node-apn
+
+Mini server listening on port 9876
+
+Initial setup, required apns.p8 certificate (APNs auth key) obtained from developer apple portal
 
 ```bash
 #ubuntu 16.04 install nodejs
